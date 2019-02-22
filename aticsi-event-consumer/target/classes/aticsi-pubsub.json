@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aticsi-pubsub",
+  "private_key_id": "74d4e1e50bb9b8bf5b98a867efe9b6d179fd694a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCaQoN2glRgPG7E\nSJbNy7/lbpjm2GpS/Xlx058YShLEeftlKei0b7xwEKbkuteaIoY6MI119N+cvYiH\n/sfvNjct1oJAqsSL1/kZnn+sdh8YrJrEyA5tU+cLUS2Bk+B4aT0aN+6DSIzsJzY1\nqXJ9MPibDNM9fxIPN1m5rZghZe52j7g5F8tudTq5ykjwyUd0SDT9AZ9HgrxZ0Y2Y\nVQZp+kko+Igyogf1+2XVE/uclitd/btCpavCxSd6tHY0cTYyp9IwaHSLN5KtFdbk\nlY62/cRMXZKAO/1E836uRM6y/QZzmX9RHzbKKeyu2qWu6UpeQht/VGYKW9jgoZ9n\n0oCBv8khAgMBAAECgf9wK3Segth7ha8UEsLOsOSHV/2I3vj/yoLy94fYbFnc0wEi\nBBsEUp83JR2L5u28cZAiHHpPDy8K3GO9DmAFwCMRYALsNM7omkNhS+pZHdKiaTW9\n2pCGoOpHt4pqOX11n58SUZJo63iNo5Iuz5LtUjl0aRt49SLpH2hNbfhKbVDZQQBs\nRwvoVwf2S7R1JAv8e6/fFrojTndoYGwCDy8iG5bZ1+p38uzZJzI22xoTIzVHRGpE\n8bM6v0NHeJ/Xju1AfFF1Qqq0c85Ag1EFmKpOFmSX8R3XMPxJ+p8vyqOzQvhKYzbd\n4Aifb327IMgE/FqymVcsTPTizHTuw4DxVUYGGskCgYEAyKPU4m6HHicNO/XYYtzj\nTgs2Bv97Cnge1yvkdVZnYlh1aJ3da+DQKh3KaoVYJJaES1Iq6T8VjDkkdLI1md38\nNBAyy6He8rwtimW0kRgYUtsyj7wN7W1OhtPu44l34aMB+C0M+DzvYtrMBbeCoY4K\ngroQC+LC5j11LI3ktXPg2PkCgYEAxNKg3inlhkJpd77uIu588LHP94wJsMjpZsz1\nssCyoG4CcPVQfi7sQZIzHAaLUWebK2VRaWcDQcEsgwknW5MdZY1V5rDpwK8qZ+nw\n1bjoME9NI/S/nYkdcPMTLFzJkzf3nUDKIBITIXv0tUU1+YbhHaiYMhfjzsYXWqKI\nluWy42kCgYB1WXU61oCKvzZ7WmgsMptz2xTHdQfG8MjA+vgNNPMUzz4kaSjHXt8B\nsxjfwovyImLQFwfoEjCNKiLLaiv1iaNn5A2BknRurmdIagH5Vwlq9K+W59uRgXwL\nWcuAI7gNLaUKPXc3fZRZ0jTAJzvtN8GoAiE+gmuR9GIjI/6frl3VKQKBgAS6Ik7z\npqWQ1sOffEyueaW2P45seJccXC6x4XzHkAK2Yayg16wQKHByuHOF3La5zEpAhrIH\nXVao8w66m41hfSVBPbzqptKP4m7YeYZIiJsQbIPejvOTpXde/yjjmZvFjlbihXg7\ntuXo+jmYTfGOQb3anL0nQbtnmov8t1cYcTFxAoGBAIgLczEE5jGFmXwxjGyXAr7e\nsYHldQYCEbBVoUMIv8+A7FglhUEo4/AaBr6M6L4l4OAXnZW7EamDoE0CGvWHiSGp\naSWXt3noffSnQgxQSr8YE+iYoi71SjbEIv3yPztlwVe9ZbSF+EDZy/a9aQVOGUl9\nnJxFzD+tAZxd0JGLk/NS\n-----END PRIVATE KEY-----\n",
+  "client_email": "datastoreandpubsub@aticsi-pubsub.iam.gserviceaccount.com",
+  "client_id": "107391417629130508982",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datastoreandpubsub%40aticsi-pubsub.iam.gserviceaccount.com"
+}

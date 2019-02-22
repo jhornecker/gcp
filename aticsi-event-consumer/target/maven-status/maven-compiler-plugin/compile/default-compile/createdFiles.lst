@@ -1,0 +1,6 @@
+org/aticsi/event/consumer/dao/EventDAO.class
+org/aticsi/event/consumer/PubSubConsumer.class
+org/aticsi/event/consumer/CartEvent.class
+org/aticsi/event/consumer/Application.class
+org/aticsi/event/consumer/ConsumerConfig.class
+org/aticsi/event/consumer/dao/EventDSDAO.class
